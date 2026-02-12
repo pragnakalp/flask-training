@@ -1,7 +1,7 @@
 # Level 4: Scalable Structure & The Application Factory
 
-> **Prerequisites**: [Test Task 2](07_TEST_TASK_2.md)
-> **Next Step**: [Test Task 3 (Conclusion)](10_TEST_TASK_3.md)
+> **Prerequisites**: [Test Task 2](TEST_TASK_2.md)
+> **Next Step**: [Test Task 3 (Conclusion)](TEST_TASK_3.md)
 
 > [!NOTE]
 > **OOP Level**: Medium. The "Application Factory" (`create_app`) is a function that creates an object (`app`). You still do not write new classes here—this level is about **project structure and imports**, not advanced OOP.

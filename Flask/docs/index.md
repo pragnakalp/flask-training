@@ -100,9 +100,9 @@ Many beginners get stuck because they think they need to master Classes and Obje
 
 1. **Start sequentially**: Do not skip Level 0 or 1. They lay the foundation.
 2. **STOP at Checkpoints**: There are **3 Test Tasks**. You *must* complete them before moving on. They are the gatekeepers.
-    - [Test Task 1](03_TEST_TASK_1.md) (After Level 1)
-    - [Test Task 2](07_TEST_TASK_2.md) (After Level 3)
-    - [Test Task 3](10_TEST_TASK_3.md) (After Level 4)
+    - [Test Task 1](TEST_TASK_1.md) (After Level 1)
+    - [Test Task 2](TEST_TASK_2.md) (After Level 3)
+    - [Test Task 3](TEST_TASK_3.md) (After Level 4)
 3. **Code Along**: Reading is not enough. Type the code.
 
 ## 🛠️ Tools You'll Need

@@ -1,6 +1,6 @@
 # Flask Test Task 3 – Scalable Architecture & Blueprints
 
-> **Prerequisite**: [Level 4: Scalable Structure](08_LEVEL_4_SCALABLE.md).
+> **Prerequisite**: [Level 4: Scalable Structure](LEVEL_4_SCALABLE.md).
 
 ## Objective
 

@@ -1,7 +1,7 @@
 # Level 0: Complete Beginner - Python & Web Fundamentals for Flask
 
 > **Prerequisites**: None. This is where your journey begins!
-> **Next Level**: [Level 1: Foundations](02_LEVEL_1_FOUNDATIONS.md)
+> **Next Level**: [Level 1: Foundations](LEVEL_1_FOUNDATIONS.md)
 
 > [!NOTE]
 > **No OOP Required**: You do *not* need to know about Python Classes or Objects to start this level. We use simple functions.

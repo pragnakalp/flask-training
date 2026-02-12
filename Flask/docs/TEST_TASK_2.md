@@ -1,7 +1,7 @@
 # Flask Test Task 2 – Relational DB & Service Layer
 
-> **STOP**: Do not attempt this task until you have completed [Level 3: Authentication](06_LEVEL_3_AUTHENTICATION.md).
-> **Next Level**: [Level 4: Scalable Structure](08_LEVEL_4_SCALABLE.md)
+> **STOP**: Do not attempt this task until you have completed [Level 3: Authentication](LEVEL_3_AUTHENTICATION.md).
+> **Next Level**: [Level 4: Scalable Structure](LEVEL_4_SCALABLE.md)
 
 > [!TIP]
 > **OOP Tip**: You will need to create a `BookService` and `AuthorService`. Remember, these are just **Namespaces** (collections of functions). You don't need to do complex OOP inheritance.

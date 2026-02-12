@@ -1,7 +1,7 @@
 # Level 2B: Intermediate - Serialization & Error Handling
 
-> **Prerequisites**: [Level 2A: Databases](04_LEVEL_2A_INTERMEDIATE.md)
-> **Next Level**: [Level 3: Authentication](06_LEVEL_3_AUTHENTICATION.md)
+> **Prerequisites**: [Level 2A: Databases](LEVEL_2A_INTERMEDIATE.md)
+> **Next Level**: [Level 3: Authentication](LEVEL_3_AUTHENTICATION.md)
 
 > [!NOTE]
 > **OOP Level**: Low. Schemas are classes, but they are just **templates for data shapes**. You declare fields, and Marshmallow does the magic. You do not need to understand advanced OOP concepts to use them.

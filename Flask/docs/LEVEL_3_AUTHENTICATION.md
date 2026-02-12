@@ -1,7 +1,7 @@
 # Level 3: Authentication & Security
 
-> **Prerequisites**: [Level 2B: Serialization](05_LEVEL_2B_INTERMEDIATE.md)
-> **Next Step**: [Test Task 2](07_TEST_TASK_2.md)
+> **Prerequisites**: [Level 2B: Serialization](LEVEL_2B_INTERMEDIATE.md)
+> **Next Step**: [Test Task 2](TEST_TASK_2.md)
 
 > [!NOTE]
 > **OOP Level**: Medium. We use a class for `AuthService` as a **namespace for auth functions**, and decorators like `@jwt_required` which are advanced functions (not OOP). The complexity in this level is **security**, not object-oriented design.

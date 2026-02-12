@@ -1,7 +1,7 @@
 # Flask Test Task 1 – JSON File-Based CRUD API
 
-> **STOP**: Do not attempt this task until you have completed [Level 1: Foundations](02_LEVEL_1_FOUNDATIONS.md).
-> **Next Level**: [Level 2A: Databases](04_LEVEL_2A_INTERMEDIATE.md)
+> **STOP**: Do not attempt this task until you have completed [Level 1: Foundations](LEVEL_1_FOUNDATIONS.md).
+> **Next Level**: [Level 2A: Databases](LEVEL_2A_INTERMEDIATE.md)
 
 ## Objective
 

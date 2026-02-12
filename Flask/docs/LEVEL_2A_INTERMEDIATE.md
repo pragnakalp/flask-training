@@ -1,7 +1,7 @@
 # Level 2A: Intermediate - Databases & The Service Layer
 
-> **Prerequisites**: [Test Task 1](03_TEST_TASK_1.md)
-> **Next Level**: [Level 2B: Serialization](05_LEVEL_2B_INTERMEDIATE.md)
+> **Prerequisites**: [Test Task 1](TEST_TASK_1.md)
+> **Next Level**: [Level 2B: Serialization](LEVEL_2B_INTERMEDIATE.md)
 
 > [!NOTE]
 > **OOP Level**: Low. We define classes for database models and services, but they are mostly **configuration** and **namespaces for functions**. You do **not** need to understand constructors, inheritance, or polymorphism to follow this level.

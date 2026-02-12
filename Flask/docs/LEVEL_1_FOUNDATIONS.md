@@ -1,7 +1,7 @@
 # Level 1: Flask Foundations - Routing & Requests
 
-> **Prerequisites**: [Level 0: Beginner](01_LEVEL_0_BEGINNER.md)
-> **Next Step**: [Test Task 1](03_TEST_TASK_1.md)
+> **Prerequisites**: [Level 0: Beginner](LEVEL_0_BEGINNER.md)
+> **Next Step**: [Test Task 1](TEST_TASK_1.md)
 
 > [!NOTE]
 > **No OOP Required**: We still use standard Python functions here. No classes needed!
